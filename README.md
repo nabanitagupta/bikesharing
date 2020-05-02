@@ -2,7 +2,8 @@
 Tableau Visualization
 Here is the link to my Tableau Public
 https://public.tableau.com/profile/nabanita.gupta#!/?activeTab=0
-Dashboard capture
+Snapsot of NYC bikesharing plots
+![alt text](https://github.com/nabanitagupta/bikesharing/blob/master/BikeSharing.png)
 
 Des Moine vs. NY City Bikeshare
 
